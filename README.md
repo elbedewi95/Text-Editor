@@ -33,9 +33,7 @@ your browser will save those notes for you.
          * npm install concurrently --save
          * npm install idb (IndexedDB)
 
-* all these dependecies are outlines in package-json, you can just run 
-        ** npm install
-* to install all of them
+* all these dependecies are outlines in package-json, you can just run `npm i` to install all of them
     
 
 ## Usage
@@ -43,7 +41,7 @@ your browser will save those notes for you.
 ``````    
 Scribble a note in your browser whenever, don't event need too save.
 
-
+``````
 
 ## References
 
