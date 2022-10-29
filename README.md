@@ -39,10 +39,8 @@ your browser will save those notes for you.
 
 ## Usage
 
-``````    
 Scribble a note in your browser whenever, don't event need too save.
 
-``````
 ## Screenshot
 
 <img src = "client/src/images/Screen Shot 2022-10-28 at 10.36.45 PM.png"/><br>
