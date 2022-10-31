@@ -11,7 +11,7 @@ your browser will save those notes for you.
 
 <br>Github URL: <a href ="https://github.com/elbedewi95/Text-Editor">github.com/elbedewi95/Text-Editor</a>
 
-<br> Heroku live deployment link: <a href="#"></a>
+<br> Heroku live deployment link: <a href="https://mysterious-gorge-51327.herokuapp.com/">mysterious-gorge</a>
 
 ## Table of Contents
 
